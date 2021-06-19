@@ -1,0 +1,42 @@
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", "300000000000000000000")
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", 300000000000000000000)
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", (62 * 10^18) )
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", (620000 * 10^18) )
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", (62000000 * 10^18) )
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", (313131 * 10^18) )
+const box = await Box.attach("0xa5883d6348310b8c5511ee285bd9ffe209b6268a")
+const Box = await ethers.getContractFactory("Metalarm")
+await box.mint("0xA5883d6348310b8C5511EE285BD9FFE209b6268a", "100000000000000")
+await box.mint("0xA5883d6348310b8C5511EE285BD9FFE209b6268a", "10000000000000000000")
+await box.mint(0xA5883d6348310b8C5511EE285BD9FFE209b6268a, "10000000000000000000")
+const box = await Box.attach("0xA5883d6348310b8C5511EE285BD9FFE209b6268a")
+const Box = await ethers.getContractFactory("Metalarm")
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", "10000000000000000000")
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", "555 * 10 ** 18")
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", str("555 * 10 ** 18"))
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", string("555 * 10 ** 18"))
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", ("555 * 10 ** 18"))
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", (555 * 10 ** 18))
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", (555))
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", (5555))
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", (55 * 10 ** 18))
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", 55)
+await box.mint("0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166", (42*10**18))
+await box.mint(0x7847dcD0eBd2Ab02163C625F4Ad44eCFb280E166, (42*10**18))
+await box.mint(42*10**18)
+const box = await Box.attach("0x51F4eBE6601572fC86C6F38232d5a4FC1A8df1A8")
+const Box = await ethers.getContractFactory("Metalarm")
+(await ethers.provider.getBalance(accounts[0])).toString()
+accounts = await ethers.provider.listAccounts()
+clear
+console.log(await ethers.eth.getBalance())
+console.log(await ethers.eth.getBalance()
+console.log(await web3.eth.getBalance())
+console.log(await web3.eth.getBalance()
+ethers
+config
+.help
+const box = await Box.attach(owner.address);
+const box = await Box.attach(0x51f4ebe6601572fc86c6f38232d5a4fc1a8df1a8);
+const box = await Box.attach(0xa5883d6348310b8c5511ee285bd9ffe209b6268a);
+const Box = await ethers.getContractFactory("Metalarm");
